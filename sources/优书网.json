@@ -1,0 +1,34 @@
+{
+  "name": "ÓÅÊéÍø",
+  "version": 100,
+  "category": 1, 
+  "url": "http://www.yousuu.com",
+  "charset": "utf-8",
+  "metadata": {
+    "name": ["div.list-card-content > div.booklist-card-content > a"], 
+    "author": ["div.list-card-content > div.booklist-card-content > div > div"],  
+    "cover": [], 
+    "summary": [],  
+    "category": [], 
+    "status": [], 
+    "update": [], 
+    "lastChapter": [],
+    "link": ["div.list-card-content > div.booklist-card-content > a:nth-child(1)@attr->href"], 
+    "catalog": []  
+  },
+  "catalog": {
+    "list": "",
+    "orderBy": 0,
+    "chapter": {
+      "name": "", 
+      "link": "" 
+    }
+  },
+  "content": {
+    "text": ""
+  },
+  "search": {
+    "link": "http://www.yousuu.com/search/?SearchType=booklist&SearchValue=${key}", 
+    "list": "div.search-result-item > div"  
+  }
+}
