@@ -1,5 +1,5 @@
 {
-  "name": "小说迷爱推文",
+  "name": "灏忚杩风埍鎺ㄦ枃",
   "version": 100,
   "category": 1, 
   "url": "http://www.xbookml.com",
@@ -29,6 +29,6 @@
   },
   "search": {
     "link": "http://www.xbookml.com/?s=${key}", 
-    "list": "div#content > article"  
+    "list": "div#content > article.post"  
   }
 }
