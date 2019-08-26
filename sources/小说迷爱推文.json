@@ -29,6 +29,6 @@
   },
   "search": {
     "link": "http://www.xbookml.com/?s=${key}", 
-    "list": "div#content > article.post"  
+    "list": "div#container > div#content > article.post"  
   }
 }
