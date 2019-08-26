@@ -1,0 +1,34 @@
+{
+  "name": "¶ÁÊé°®Ïí",
+  "version": 100,
+  "category": 1, 
+  "url": "https://www.msooso.com",
+  "charset": "utf-8",
+  "metadata": {
+    "name": ["div.blog-module-title  > a:nth-child(1)"], 
+    "author": ["span.radius"],  
+    "cover": [], 
+    "summary": [],  
+    "category": [], 
+    "status": [], 
+    "update": [], 
+    "lastChapter": [],
+    "link": ["div.blog-module-title  > a:nth-child(1)@attr->href"], 
+    "catalog": []  
+  },
+  "catalog": {
+    "list": "",
+    "orderBy": 0,
+    "chapter": {
+      "name": "", 
+      "link": "" 
+    }
+  },
+  "content": {
+    "text": ""
+  },
+  "search": {
+    "link": "https://www.msooso.com/index.php?c=content&a=search&mid=1&kw=${key}", 
+    "list": "div.no-padding"  
+  }
+}
