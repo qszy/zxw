@@ -5,7 +5,7 @@
   "url": "https://www.msooso.com",
   "charset": "utf-8",
   "metadata": {
-    "name": ["div:nth-child(1) > a:nth-child(1)@attr->title"], 
+    "name": ["div:nth-child(1)"], 
     "author": ["span.radius"],  
     "cover": [], 
     "summary": [],  
