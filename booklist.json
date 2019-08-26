@@ -10,6 +10,14 @@
       "auth": false,
       "version": 100
     },
+        {
+      "name": "优书网",
+      "url": "http://www.yousuu.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
     {
       "name": "读书爱享",
       "url": "https://www.msooso.com",
