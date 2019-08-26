@@ -5,7 +5,7 @@
   "url": "https://www.msooso.com",
   "charset": "utf-8",
   "metadata": {
-    "name": ["div.blog-module-title > a:nth-child(1)"], 
+    "name": ["div.blog-module-title > a:nth-child(1)@attr->title"], 
     "author": ["span.radius"],  
     "cover": [], 
     "summary": [],  
@@ -29,6 +29,6 @@
   },
   "search": {
     "link": "https://www.msooso.com/index.php?c=content&a=search&mid=1&kw=${key}", 
-    "list": "div.no-padding"  
+    "list": "div.search-page > div > div.no-padding" 
   }
 }
