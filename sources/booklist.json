@@ -28,7 +28,7 @@
     "text": ""
   },
   "search": {
-    "link": "https://gitee.com/zhangxiaowan/thick_ink_book_source/raw/master/index.html", 
+    "link": "https://gitee.com/zhangxiaowan/thick_ink_book_source/raw/master/index.html%${key}", 
     "list": "div.s1"  
   }
 }
