@@ -10,6 +10,14 @@
       "auth": false,
       "version": 100
     },
+        {
+      "name": "鲸鱼",
+      "url": "http://pst.jingyu.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
             {
       "name": "booklist",
       "url": "https://gitee.com",
