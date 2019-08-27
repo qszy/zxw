@@ -28,7 +28,7 @@
     "text": ""
   },
   "search": {
-    "link": "http://pst.jingyu.com/subject", 
+    "link": "http://pst.jingyu.com/subject#${key}", 
     "list": "ul.book-list"  
   }
 }
